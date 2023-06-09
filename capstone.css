@@ -1,7 +1,8 @@
-h3, ul {
+#toc {
     border: 5px solid lightskyblue;
+    text-align: center;
 }
-head{
+h1, h2{
     text-align: center;
 }
 
@@ -10,4 +11,13 @@ body{
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
+
+a:hover {
+    color: cornflowerblue;
+}
+
+a{
+    color: darkblue;
+}
+
 
